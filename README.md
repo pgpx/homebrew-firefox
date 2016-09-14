@@ -42,6 +42,10 @@ It is assumed that [brew] and [cask] have already been installed. If not refer t
 	...
 	brew cask uninstall firefox-46
 
+## Adding new versions
+
+See https://github.com/goldcaddy77/homebrew-firefox/wiki/Adding-New-Versions
+
 ## Auto updates
 
 At present, these firefox installations will honour your existing preferences for firefox updates. So by default it will try and update automatically. To stop this happening go to firefox preferences, select update tab and select "Never check for updates".
