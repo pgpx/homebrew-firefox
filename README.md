@@ -2,6 +2,8 @@
 
 ## Summary
 
+Note: now serving up to Firefox 49
+
 An alternate [Homebrew Cask] tap for installing older [Firefox] versions.  Forked from [smclernon/homebrew-firefox](https://github.com/smclernon/homebrew-firefox) and updated to work with [new Cask header style](https://github.com/caskroom/homebrew-cask/commit/25f7cfee04c1d0c470dd1e6b7eaff56fb2598172).
 
 ## Dependencies
@@ -24,11 +26,11 @@ It is assumed that [brew] and [cask] have already been installed. If not refer t
 	brew cask install firefox-35
 	brew cask install firefox-36
 	brew cask install firefox-37
-	brew cask install firefox-38
-	brew cask install firefox-39
-	brew cask install firefox-40
 	...
 	brew cask install firefox-46
+	brew cask install firefox-47
+	brew cask install firefox-48
+	brew cask install firefox-49
 
 ## Uninstalling the casks
 
@@ -36,11 +38,11 @@ It is assumed that [brew] and [cask] have already been installed. If not refer t
 	brew cask uninstall firefox-35
 	brew cask uninstall firefox-36
 	brew cask uninstall firefox-37
-	brew cask uninstall firefox-38
-	brew cask uninstall firefox-39
-	brew cask uninstall firefox-40
 	...
 	brew cask uninstall firefox-46
+	brew cask uninstall firefox-47
+	brew cask uninstall firefox-48
+	brew cask uninstall firefox-49
 
 ## Adding new versions
 
