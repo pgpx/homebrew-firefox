@@ -2,7 +2,7 @@
 
 ## Summary
 
-Note: now serving up to Firefox 49
+Note: now serving up to Firefox 57
 
 An [Homebrew Cask] tap for installing older [Firefox] versions.  Forked from [smclernon] and updated to work with new 
 [Cask header style].
@@ -23,7 +23,7 @@ to the linked sites for further explanation).
 
 ## Installing the firefox casks
 
-	brew tap goldcaddy77/homebrew-firefox
+	brew tap kpa6uu/homebrew-firefox
 	brew cask install firefox-34
 	brew cask install firefox-35
 	brew cask install firefox-36
