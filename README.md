@@ -29,10 +29,10 @@ to the linked sites for further explanation).
 	brew cask install firefox-36
 	brew cask install firefox-37
 	...
-	brew cask install firefox-46
-	brew cask install firefox-47
-	brew cask install firefox-48
-	brew cask install firefox-49
+	brew cask install firefox-54
+	brew cask install firefox-55
+	brew cask install firefox-56
+	brew cask install firefox-57
 
 ## Uninstalling the casks
 
@@ -41,10 +41,10 @@ to the linked sites for further explanation).
 	brew cask uninstall firefox-36
 	brew cask uninstall firefox-37
 	...
-	brew cask uninstall firefox-46
-	brew cask uninstall firefox-47
-	brew cask uninstall firefox-48
-	brew cask uninstall firefox-49
+	brew cask uninstall firefox-54
+	brew cask uninstall firefox-55
+	brew cask uninstall firefox-56
+	brew cask uninstall firefox-57
 
 ## Adding new versions
 
